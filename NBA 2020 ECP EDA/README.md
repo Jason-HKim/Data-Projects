@@ -7,7 +7,7 @@
 
 * Unsurprisingly, the highest scorer throughout the 2020 Eastern Conference Playoffs was Jimmy Butler (467 pts), followed closely by Jayson Tatum (437 pts).
 * On the other hand, the highest **_per game_** scorer was Joel Embiid (30 ppg, 4 GP), followed by Nikola Vučević (28 ppg, 5 GP). Jimmy Butler ranked 5th, with 22.24 ppg, over 21 games.
-* The highest statistically significant per minute point scorer was Giannis Antetokounmpo, with 0.866 points scored per minute played.
-  - Note: the highest absolute per minute point scorer was Tacko Fall, with 1 points/min, however, he only played a total of 3 minutes across 2 games, with 1 made FG attempt, so I've chosen to ignore this stat.
+* The highest statistically significant per minute point scorer (>= 5 minutes played) was Giannis Antetokounmpo, with 0.866 points scored per minute played.
+  - Note: the highest absolute per minute point scorer was Tacko Fall, with 1 points/min, however, he only played a total of 3 minutes across 2 games, with 1 made FG attempt, so I've chosen to exclude this stat.
 * The top 3 players with the highest per game Simple PER's (Player Efficiency Rating), were Joel Embiid (37.853 sPER), followed by Giannis Antetokounmpo (36.367 sPER), and Jimmy Butler (29.763 PER)
   - Note: This Simple PER calculation is based on [Rusty LaRue's Simple PER article](http://www.rustylarue.com/more-than-94rsquo/player-efficiency-stats). It is, by no means highly accurate to John Hollinger's much more complicated PER rating, but produces an adequate representation of player efficiency for the purposes of this EDA project.
