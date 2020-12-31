@@ -1,6 +1,6 @@
 # Simple EDA for the 2020 NBA Eastern Conference Playoff Team Statistics
 ### Notes:
-1) Dataframes were created from csv data pulled from [basketball-referene.com](https://www.basketball-reference.com/playoffs/NBA_2020.html).
+1) Dataframes were created from csv data pulled from [basketball-reference.com](https://www.basketball-reference.com/playoffs/NBA_2020.html).
 2) This analysis was conducted using a Databricks Notebook to create analysis and visualizations of findings.
 
 ## Initial Findings
@@ -14,4 +14,4 @@
  * The player with the highest Effective Field Goal Percentage 
   - 
 * The top 3 players with the highest per game Simple PER's were Joel Embiid (37.853 sPER), followed by Giannis Antetokounmpo (36.367 sPER), and Jimmy Butler (29.763 PER)
-  - Note: This Simple PER calculation is based on Rusty LaRue's Simple PER article: http://www.rustylarue.com/more-than-94rsquo/player-efficiency-stats. It is, by no means highly accurate to John Hollinger's much more complicated PER rating, but produces an adequate representation of player efficiency for the purposes of this EDA project.
+  - Note: This Simple PER calculation is based on [Rusty LaRue's Simple PER article](http://www.rustylarue.com/more-than-94rsquo/player-efficiency-stats). It is, by no means highly accurate to John Hollinger's much more complicated PER rating, but produces an adequate representation of player efficiency for the purposes of this EDA project.
