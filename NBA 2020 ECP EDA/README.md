@@ -1,6 +1,6 @@
 # Simple EDA for the 2020 NBA Eastern Conference Playoff Team Statistics
 ### Notes:
-1) Dataframes were created from csv data pulled from basketball-reference.com.
+1) Dataframes were created from csv data pulled from [basketball-referene.com] (https://www.basketball-reference.com/playoffs/NBA_2020.html).
 2) This analysis was conducted using a Databricks Notebook to create analysis and visualizations of findings.
 
 ## Initial Findings
